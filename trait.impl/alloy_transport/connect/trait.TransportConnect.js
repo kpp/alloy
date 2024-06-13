@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"alloy_transport_http":[["impl TransportConnect for <a class=\"type\" href=\"alloy_transport_http/hyper_transport/type.HyperConnect.html\" title=\"type alloy_transport_http::hyper_transport::HyperConnect\">HyperConnect</a>"],["impl TransportConnect for <a class=\"type\" href=\"alloy_transport_http/reqwest_transport/type.ReqwestConnect.html\" title=\"type alloy_transport_http::reqwest_transport::ReqwestConnect\">ReqwestConnect</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
